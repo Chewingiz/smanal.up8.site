@@ -1,0 +1,48 @@
+.icone1{
+ text-align: center;
+ line-height:0px;
+ margin-top:0px;
+
+}
+.peinture{
+ width: auto;
+ border: 10px solid black;
+ line-height:0px;
+ float:right;
+ margin-right:20%;
+ margin-left:20px;
+ margin-bottom:30px;
+ 
+}
+.peinture2{
+ width: auto;
+ border: 10px solid black;
+ line-height:0px;
+ float:left;
+ margin-right:20%;
+ margin-left:20%;
+ margin-bottom:30px;
+}
+
+
+.iconefin{
+ text-align: center;
+ line-height:0px;
+ margin-top:0px;
+ clear: both;
+
+
+}
+p{
+ font-weight: normal;
+ font-size: 15px;
+ text-decoration:None;
+ margin-left:25%;
+}
+h2{
+ text-decoration:underline;
+ font-weight: bold;
+ text-align: center;
+ clear: both;
+
+}
