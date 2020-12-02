@@ -1,0 +1,2 @@
+icons filter=lfs diff=lfs merge=lfs -text
+peinture filter=lfs diff=lfs merge=lfs -text
